@@ -12,3 +12,10 @@ Working on my [tribute page](https://codepen.io/nimbus117/full/bvxgmO/) for the 
 
 ### R1D3 - 06/04/2018
 Working on my [personal portfolio](https://codepen.io/nimbus117/full/zWmqNj/) for the "Basic Front End Development Projects" from freeCodeCamp. Watched the [scrimba.com](https://scrimba.com/playlist/pD5KUE) videos on bootstrap 4 for ideas.
+
+### R1D4 - 07/04/2018
+2 hours of ruby at the [codeclan](https://codeclan.com weekend taster session. Will definitely be applying to the 16 week course soon.
+
+Exported my personal portfolio from [codepen](https://codepen.io) and followed [this guide](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) to host it in AWS S3. 
+
+[nimbus117.co.uk](http://www.nimbus117.co.uk)
