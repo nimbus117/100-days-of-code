@@ -19,3 +19,7 @@ Working on my [personal portfolio](https://codepen.io/nimbus117/full/zWmqNj/) fo
 Exported my personal portfolio from [codepen](https://codepen.io) and followed [this guide](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) to host it in AWS S3. 
 
 [nimbus117.co.uk](http://www.nimbus117.co.uk)
+
+### R1D5 - 08/04/2018
+
+Working through the basic JavaScript challenges from freeCodeCamp
