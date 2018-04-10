@@ -23,3 +23,7 @@ Exported my personal portfolio from [codepen](https://codepen.io) and followed [
 ### R1D5 - 08/04/2018
 
 Working through the basic JavaScript challenges from freeCodeCamp
+
+### R1D6 - 09/04/2018
+
+Finished the freeCodeCamp "basic JavaScript" and "Object Oriented and Functional Programming" challenges!
