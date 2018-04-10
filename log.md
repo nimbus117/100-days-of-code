@@ -27,3 +27,7 @@ Working through the basic JavaScript challenges from freeCodeCamp
 ### R1D6 - 09/04/2018
 
 Finished the freeCodeCamp "basic JavaScript" and "Object Oriented and Functional Programming" challenges!
+
+### R1D7 - 10/04/2018
+
+Working through the freeCodeCamp Basic Algorithm Scripting challenges.
