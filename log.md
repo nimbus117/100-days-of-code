@@ -35,3 +35,7 @@ Working through the freeCodeCamp Basic Algorithm Scripting challenges.
 ### R1D8 - 11/04/2018
 
 Still working through the freeCodeCamp Basic Algorithm Scripting challenges. Repeated a few of them and tried different ways to achieve the same thing to make sure I actually understood what was happening.
+
+### R1D9 - 14/04/2018
+
+All of freeCodeCamp Basic Algorithm Scripting challenges done except the last one "Caesars Cipher". Spent some time on it but getting nowhere! My brains stopped working and it's time to head out. Will pick up tomorrow.
