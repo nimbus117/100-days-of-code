@@ -39,3 +39,7 @@ Still working through the freeCodeCamp Basic Algorithm Scripting challenges. Rep
 ### R1D9 - 14/04/2018
 
 All of freeCodeCamp Basic Algorithm Scripting challenges done except the last one "Caesars Cipher". Spent some time on it but getting nowhere! My brains stopped working and it's time to head out. Will pick up tomorrow.
+
+### R1D10 - 14/04/2018
+
+Finally finished the freeCodeCamp "Caesars Cipher" challenge. Originally used a for loop but after checking the hints .map made more sense. Started working through "JSON APIs and Ajax"
