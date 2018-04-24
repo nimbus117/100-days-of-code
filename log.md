@@ -44,11 +44,11 @@ All of freeCodeCamp Basic Algorithm Scripting challenges done except the last on
 
 Finally finished the freeCodeCamp "Caesars Cipher" challenge. Originally used a for loop but after checking the hints .map made more sense. Started working through "JSON APIs and Ajax"
 
-### R1D10 - 22/04/2018
+### R1D11 - 22/04/2018
 
 Finished JSON APIs and Ajax, started on the Random Quote Machine
 
-### R1D10 - 24/04/2018
+### R1D12 - 24/04/2018
 
 [Random Quote Machine complete](https://codepen.io/nimbus117/full/LmNyZV/)
 
