@@ -40,6 +40,15 @@ Still working through the freeCodeCamp Basic Algorithm Scripting challenges. Rep
 
 All of freeCodeCamp Basic Algorithm Scripting challenges done except the last one "Caesars Cipher". Spent some time on it but getting nowhere! My brains stopped working and it's time to head out. Will pick up tomorrow.
 
-### R1D10 - 14/04/2018
+### R1D10 - 18/04/2018
 
 Finally finished the freeCodeCamp "Caesars Cipher" challenge. Originally used a for loop but after checking the hints .map made more sense. Started working through "JSON APIs and Ajax"
+
+### R1D10 - 22/04/2018
+
+Finished JSON APIs and Ajax, started on the Random Quote Machine
+
+### R1D10 - 24/04/2018
+
+[Random Quote Machine complete](https://codepen.io/nimbus117/full/LmNyZV/)
+
