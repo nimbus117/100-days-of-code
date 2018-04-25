@@ -52,3 +52,7 @@ Finished JSON APIs and Ajax, started on the Random Quote Machine
 
 [Random Quote Machine complete](https://codepen.io/nimbus117/full/LmNyZV/)
 
+### R1D13 - 25/04/2018
+
+Working on the freeCodeCamp local weather challenge. Used jQuery to get the location and then used the freeCodeCamp weather api to get the local weather. Still to do: style the page a bit, add button to toggle between fahrenheit and celsius, add else to warn if location not available.
+
