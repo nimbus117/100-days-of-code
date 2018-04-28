@@ -59,3 +59,11 @@ Working on the freeCodeCamp local weather challenge. Used jQuery to get the loca
 ### R1D14 26/04/2018
 
 [Show Local Weather Complete](https://codepen.io/nimbus117/full/MGebmP/)
+
+### R1D15 27/04/2018
+
+Worked on the freeCodeCamp Wikipedia viewer, spent a good hour just trying to figure out the API but got it working in the end!
+
+### R1D16 28/04/2018
+
+Took a break from freeCodeCamp and worked on my personal site. Changed the layout a bit and added an image to the about section. Lot's of playing around with bootstrap and little styling changes.
