@@ -67,3 +67,7 @@ Worked on the freeCodeCamp Wikipedia viewer, spent a good hour just trying to fi
 ### R1D16 28/04/2018
 
 Took a break from freeCodeCamp and worked on my personal site. Changed the layout a bit and added an image to the about section. Lot's of playing around with bootstrap and little styling changes.
+
+### R1D16 29/04/2018
+
+Continued work on my personal site. Used some string literals to create a template for modals and javascript objects to store the data. Took me hours to get right but quite chuffed it worked in the end.
