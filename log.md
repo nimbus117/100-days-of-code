@@ -68,6 +68,24 @@ Worked on the freeCodeCamp Wikipedia viewer, spent a good hour just trying to fi
 
 Took a break from freeCodeCamp and worked on my personal site. Changed the layout a bit and added an image to the about section. Lot's of playing around with bootstrap and little styling changes.
 
-### R1D16 29/04/2018
+### R1D17 29/04/2018
 
 Continued work on my personal site. Used some string literals to create a template for modals and javascript objects to store the data. Took me hours to get right but quite chuffed it worked in the end.
+
+### R1D18 30/04/2018
+
+Working on the wikipedia viewer. Spent a good while trying to figure out the wikipedia api.
+
+### R1D19 01/05/2018
+
+Worked adding content to the page using javascript and fading in the results
+
+### R1D20 02/05/2018
+
+Styling and tweaking wiki viewer. Lots of playing with colors and gradients.
+
+[Finished Wikipedia Viewer](https://codepen.io/nimbus117/full/qYqRWW/)
+
+### R1D21 03/05/2018
+
+Worked on styling my personal site and made a start on the twitch api challenge.
