@@ -84,8 +84,21 @@ Worked adding content to the page using javascript and fading in the results
 
 Styling and tweaking wiki viewer. Lots of playing with colors and gradients.
 
-[Finished Wikipedia Viewer](https://codepen.io/nimbus117/full/qYqRWW/)
+[Wikipedia Viewer Complete](https://codepen.io/nimbus117/full/qYqRWW/)
 
 ### R1D21 03/05/2018
 
 Worked on styling my personal site and made a start on the twitch api challenge.
+
+### R1D22 04/05/2018
+
+Working on the twitch api challenge. Javascript callbacks were confusing until grasping they're asynchronous.
+
+### R1D23 05/05/2018
+
+Working on the twitch api challenge. Lots of playing around with bootstrap buttons and tabs and really used the chrome DevTools for the first time for JS errors and working out margins and padding.
+
+### R1D24 06/05/2018
+
+[Twitch.tv challenge complete](https://codepen.io/nimbus117/full/dezQaQ/)
+Started on the freeCodeCamp intermediate algorithm scripting challenges.
