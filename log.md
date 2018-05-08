@@ -101,4 +101,9 @@ Working on the twitch api challenge. Lots of playing around with bootstrap butto
 ### R1D24 06/05/2018
 
 [Twitch.tv challenge complete](https://codepen.io/nimbus117/full/dezQaQ/)
+
 Started on the freeCodeCamp intermediate algorithm scripting challenges.
+
+### R1D25 07/05/2018
+
+Another late night sitting around waiting for upgrades while Working through the freeCodeCamp challenges. The Roman numeral converter took quite a while!
