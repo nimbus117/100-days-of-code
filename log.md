@@ -107,3 +107,17 @@ Started on the freeCodeCamp intermediate algorithm scripting challenges.
 ### R1D25 07/05/2018
 
 Another late night sitting around waiting for upgrades while Working through the freeCodeCamp challenges. The Roman numeral converter took quite a while!
+
+### R1D26 08/05/2018
+
+Slow one today. Watched a few of [these](https://scrimba.com/g/gintrotocss) css videos. I really like the [scrimba.com](https://scrimba.com) player interface, the fact you can edit the code during the video is so usefull for testing your understanding.
+
+Also played around with my site some more, changed to using css variables for colors and created my own button rather than using bootstrap.
+
+### R1D27 09/05/2018
+
+More freeCodeCamp intermediate algorithm scripting challenges and scrimba videos on html
+
+### R1D28 15/05/2018
+
+Still working through the freeCodeCamp intermediate algorithm scripting challenges. They're challenging but fun!
