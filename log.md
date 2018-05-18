@@ -121,3 +121,11 @@ More freeCodeCamp intermediate algorithm scripting challenges and scrimba videos
 ### R1D28 15/05/2018
 
 Still working through the freeCodeCamp intermediate algorithm scripting challenges. They're challenging but fun!
+
+### R1D29 16/05/2018
+
+4 more algorithm scripting challenges done. Had to skip one for now, I'll come back to it with a fresh mind and try again.
+
+### R1D30 18/05/2018
+
+Took a break from #freeCodeCamp and spent some time working on my site nimbus117.co.uk. Lots of styling and layout tweaks, a new blog section and added some code to display the modals automatically when using an external link.
