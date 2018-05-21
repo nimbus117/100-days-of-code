@@ -129,3 +129,7 @@ Still working through the freeCodeCamp intermediate algorithm scripting challeng
 ### R1D30 18/05/2018
 
 Took a break from #freeCodeCamp and spent some time working on my site nimbus117.co.uk. Lots of styling and layout tweaks, a new blog section and added some code to display the modals automatically when using an external link.
+
+### R1D31 21/05/2018
+
+Decided to leave freeCodeCamp for a bit and try something else. It's a bit early but thought I'd make a start on the #CodeClan pre-course work. Speant tonight getting ubuntu installed, setting up zsh and made a start on the codecademy.com basic command line course.
