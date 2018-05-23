@@ -133,3 +133,7 @@ Took a break from #freeCodeCamp and spent some time working on my site nimbus117
 ### R1D31 21/05/2018
 
 Decided to leave freeCodeCamp for a bit and try something else. It's a bit early but thought I'd make a start on the #CodeClan pre-course work. Speant tonight getting ubuntu installed, setting up zsh and made a start on the codecademy.com basic command line course.
+
+### R1D32 23/05/2018
+
+Continued with the command line course but ended up spending most of the night playing with vim, screen and s3cmd.
