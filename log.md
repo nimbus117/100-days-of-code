@@ -137,3 +137,9 @@ Decided to leave freeCodeCamp for a bit and try something else. It's a bit early
 ### R1D32 23/05/2018
 
 Continued with the command line course but ended up spending most of the night playing with vim, screen and s3cmd.
+
+### R1D33 24/05/2018
+
+Finished the command line course and went through vimtutor.
+
+
