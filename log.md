@@ -132,7 +132,7 @@ Took a break from #freeCodeCamp and spent some time working on my site nimbus117
 
 ### R1D31 21/05/2018
 
-Decided to leave freeCodeCamp for a bit and try something else. It's a bit early but thought I'd make a start on the #CodeClan pre-course work. Speant tonight getting ubuntu installed, setting up zsh and made a start on the codecademy.com basic command line course.
+Decided to leave freeCodeCamp for a bit and try something else. It's a bit early but thought I'd make a start on the #CodeClan pre-course work. Speant tonight getting ubuntu installed, setting up zsh and made a start on the [codecademy.com](https://codecademy.com) command line course.
 
 ### R1D32 23/05/2018
 
@@ -141,5 +141,13 @@ Continued with the command line course but ended up spending most of the night p
 ### R1D33 24/05/2018
 
 Finished the command line course and went through vimtutor.
+
+### R1D34 26/05/2018
+
+Completed the [codecademy.com](https://codecademy.com) Learn Git course and started on the [The Odin Project]{https://www.theodinproject.com} Web Development 101 course. 
+
+### R1D35 27/05/2018
+
+Completed the first 2 sections of [The Odin Project]{https://www.theodinproject.com} Web Development 101 course. Lots of Git practice over the last few days and reinforcing the basics.
 
 
