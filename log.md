@@ -153,3 +153,11 @@ Completed the first 2 sections of [The Odin Project (TOP)]{https://www.theodinpr
 ### R1D36 28/05/2018
 
 Working through TOP "The Front End" section. Completed the [htmldog.com](http://www.htmldog.com) beginner HTML and CSS courses. It was good to go back to the basics. freeCodeCamp is great but I was getting too far along without really understanding what I was doing.
+
+### R1D37 30/05/2018
+
+Started the codecademy.com Learn HTML course and played around with vim some more. I think I'm getting quite used to it now and can really begin to see the power and speed. The [emit plugin](https://emmet.io/) is really cool and saves a lot of time!
+
+### R1D38 31/05/2018
+
+Finished the codecademy.com Learn HTML course and started the Learn CSS one.
