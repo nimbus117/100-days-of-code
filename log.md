@@ -161,3 +161,11 @@ Started the codecademy.com Learn HTML course and played around with vim some mor
 ### R1D38 31/05/2018
 
 Finished the codecademy.com Learn HTML course and started the Learn CSS one.
+
+### R1D39 01/06/2018
+
+Read through a few chapters of Practical Vim by Drew Neil and practiced the examples.
+
+### R1D40 02/06/2018
+
+Working through the codecademy.com Learn CSS course. Finished the first section on selectors and the second section on the box model.
