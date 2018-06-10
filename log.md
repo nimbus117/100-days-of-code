@@ -169,3 +169,7 @@ Read through a few chapters of Practical Vim by Drew Neil and practiced the exam
 ### R1D40 02/06/2018
 
 Working through the codecademy.com Learn CSS course. Finished the first section on selectors and the second section on the box model.
+
+### R1D41 10/06/2018
+
+Very sporadic over the last week and worked on some other things so rolling it all into one day. More practicing with git, particularly getting used to diffs and merge conflicts using vimdiff. Spent time learning and configuring (dotfiles) git, screen and vim on my laptop.[vimcasts.org](http://vimcasts.org) has been a great source of info for learning vim. Also worked through some more of the codecademy.com Learn CSS course. 
