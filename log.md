@@ -156,7 +156,7 @@ Working through TOP "The Front End" section. Completed the [htmldog.com](http://
 
 ### R1D37 30/05/2018
 
-Started the codecademy.com Learn HTML course and played around with vim some more. I think I'm getting quite used to it now and can really begin to see the power and speed. The [emit plugin](https://emmet.io/) is really cool and saves a lot of time!
+Started the codecademy.com Learn HTML course and played around with vim some more. I think I'm getting quite used to it now and can really begin to see the power and speed. The [emmet plugin](https://emmet.io/) is really cool and saves a lot of time!
 
 ### R1D38 31/05/2018
 
@@ -173,3 +173,19 @@ Working through the codecademy.com Learn CSS course. Finished the first section 
 ### R1D41 10/06/2018
 
 Very sporadic over the last week and worked on some other things so rolling it all into one day. More practicing with git, particularly getting used to diffs and merge conflicts using vimdiff. Spent time learning and configuring (dotfiles) git, screen and vim on my laptop.[vimcasts.org](http://vimcasts.org) has been a great source of info for learning vim. Also worked through some more of the codecademy.com Learn CSS course. 
+
+### R1D42 12/06/2018
+
+Continued with the codecademy CSS course, watched some videos on CSS and created a bunch of simple sites to practice. I'm loving the emmet plugin for quickly throwing together the html.
+
+### R1D43 13/06/2018
+
+Spent some time learning [Vimscript](http://learnvimscriptthehardway.stevelosh.com/) and tweaking my .vimrc. More and more I'm loving the power and customization available in vim. You can make it do pretty much whatever you want!
+
+### R1D44 14/06/2018
+
+Got a little carried away with (typingclub.com)[https://www.typingclub.com] last night and put in about 70 mins of typing practice. I love the site, the exercises and games are so well done and being able to see such detailed statistics about how your progressing is great for keeping you motivated.
+
+### R1D45 15/06/2018
+
+
