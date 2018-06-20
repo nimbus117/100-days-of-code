@@ -184,8 +184,14 @@ Spent some time learning [Vimscript](http://learnvimscriptthehardway.stevelosh.c
 
 ### R1D44 14/06/2018
 
-Got a little carried away with (typingclub.com)[https://www.typingclub.com] last night and put in about 70 mins of typing practice. I love the site, the exercises and games are so well done and being able to see such detailed statistics about how your progressing is great for keeping you motivated.
+Got a little carried away with [typingclub.com](https://www.typingclub.com) last night and put in about 70 mins of typing practice. I love the site, the exercises and games are so well done and being able to see such detailed statistics about how your progressing is great for keeping you motivated.
 
-### R1D45 15/06/2018
+### R1D45 17/06/2018
+
+Continued with "learn Vimscript the Hard Way" and wrote a function to generate and insert a uuid
+
+### R1D46 19/06/2018
+
+Completed the codecademy Learn CSS positioning and colors sections.
 
 
