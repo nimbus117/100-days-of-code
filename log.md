@@ -194,4 +194,10 @@ Continued with "learn Vimscript the Hard Way" and wrote a function to generate a
 
 Completed the codecademy Learn CSS positioning and colors sections.
 
+### R1D47 22/06/2018
 
+Watched some vim screencasts, practiced using the fugitive plugin, worked on some vimscript autocmds and functions.
+
+### R1D48 24/06/2018
+
+Completed the codecademy Learn CSS Typography section and started on the grid section.
