@@ -201,3 +201,7 @@ Watched some vim screencasts, practiced using the fugitive plugin, worked on som
 ### R1D48 24/06/2018
 
 Completed the codecademy Learn CSS Typography section and started on the grid section.
+
+### R1D49 25/06/2018
+
+Watched [this](https://dev.tube/video/7kVeCqQCxlk) video on CSS grid and completed the codecademy CSS Grid Essentials section.
