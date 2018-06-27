@@ -205,3 +205,7 @@ Completed the codecademy Learn CSS Typography section and started on the grid se
 ### R1D49 25/06/2018
 
 Watched [this](https://dev.tube/video/7kVeCqQCxlk) video on CSS grid and completed the codecademy CSS Grid Essentials section.
+
+### R1D50 27/06/2018
+
+Watched and coded along with some videos on CSS Grid, [this](https://www.youtube.com/watch?v=jV8B24rSN5o) was a good start and now working through [this one](https://www.youtube.com/watch?v=moBhzSC455o&t=903s). Once I get to grips with it I'll hopefully re-write my site from scratch without bootstrap
