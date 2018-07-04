@@ -208,4 +208,16 @@ Watched [this](https://dev.tube/video/7kVeCqQCxlk) video on CSS grid and complet
 
 ### R1D50 27/06/2018
 
-Watched and coded along with some videos on CSS Grid, [this](https://www.youtube.com/watch?v=jV8B24rSN5o) was a good start and now working through [this one](https://www.youtube.com/watch?v=moBhzSC455o&t=903s). Once I get to grips with it I'll hopefully re-write my site from scratch without bootstrap
+Watched and coded along with some videos on CSS Grid, [this](https://www.youtube.com/watch?v=jV8B24rSN5o) was a good start and now working through [this one](https://www.youtube.com/watch?v=moBhzSC455o&t=903s). Once I get to grips with it I'll hopefully re-write my site from scratch without bootstrap.
+
+### R1D51 29/06/2018
+
+Continued coding along with [this video](https://www.youtube.com/watch?v=moBhzSC455o&t=903s) but got a little lost so did some further reading on CSS grid.
+
+### R1D52 01/07/2018
+
+Finished the codecademy Learn CSS course, the advanced CSS grid section was really useful for explaining some of the dificulties I was having coding along with the above video.
+
+### R1D53 04/07/2018
+
+Completed chapters 19-23 of [Learn Vim Script the Hard Way](http://learnvimscriptthehardway.stevelosh.com).
