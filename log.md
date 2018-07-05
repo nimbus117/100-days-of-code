@@ -221,3 +221,7 @@ Finished the codecademy Learn CSS course, the advanced CSS grid section was real
 ### R1D53 04/07/2018
 
 Completed chapters 19-23 of [Learn Vim Script the Hard Way](http://learnvimscriptthehardway.stevelosh.com).
+
+### R1D54 05/07/2018
+
+Did some css grid practice and some typing practice.
