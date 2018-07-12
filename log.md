@@ -225,3 +225,12 @@ Completed chapters 19-23 of [Learn Vim Script the Hard Way](http://learnvimscrip
 ### R1D54 05/07/2018
 
 Did some css grid practice and some typing practice.
+
+### R1D55 08/07/2018
+
+Completed chapters 24-27 of [Learn Vim Script the Hard Way](http://learnvimscriptthehardway.stevelosh.com).
+
+### R1D56 12/07/2018
+
+Finished coding along with [this video](https://www.youtube.com/watch?v=moBhzSC455o&t=903s) on css grid.
+
